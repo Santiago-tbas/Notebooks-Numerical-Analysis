@@ -1,6 +1,5 @@
 This repository contains a collection of Jupyter notebooks that cover key topics in numerical analysis. These resources include assignments, tasks, and projects, showcasing practical implementations of fundamental concepts in computational mathematics. Below is an overview of each notebook:
 
-Contents
 📓 EDO - Runge-Kutta 4.ipynb
 This notebook explores the fourth-order Runge-Kutta method for solving ordinary differential equations (ODEs). It demonstrates the implementation and accuracy of this widely used numerical integration technique.
 
